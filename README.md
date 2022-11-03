@@ -3,7 +3,7 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 ## Project Developemnt 
 
 <hr>
-## TEAM MEMBERS
+# TEAM MEMBERS
 
 - BHUVANESHWARI.VB
 - NAFISA MAHIRA.
