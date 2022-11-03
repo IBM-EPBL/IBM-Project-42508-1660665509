@@ -10,3 +10,10 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 - SHALINI.S
 - HAMEED JAHUFAR HAJA ALAUDIN.NH
 <hr>
+
+# ASSIGNMENTS FINISHED
+- [ ] Assignment 1
+- [ ] Assignment 2
+- [ ] Assignment 3
+- [ ] Assignment 4
+
