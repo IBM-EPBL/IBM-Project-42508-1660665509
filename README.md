@@ -12,8 +12,8 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 <hr>
 
 # ASSIGNMENTS FINISHED
-- [ ] Assignment 1
-- [ ] Assignment 2
-- [ ] Assignment 3
-- [ ] Assignment 4
+- [x] Assignment 1
+- [x] Assignment 2
+- [x] Assignment 3
+- [x] Assignment 4
 
