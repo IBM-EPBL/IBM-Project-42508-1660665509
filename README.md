@@ -20,3 +20,9 @@ IoT Based Safety Gadget for Child Safety Monitoring &amp; Notification
 
 <hr>
 
+#Project development
+- [x] Sprint 1
+- [x] Sprint 2
+- [x] Sprint 3
+- [x] Sprint 4
+
